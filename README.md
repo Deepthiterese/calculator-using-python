@@ -1,1 +1,1 @@
-This is a simple Calculator programm using Python language.
+This is a simple Calculator programe using Python language.
